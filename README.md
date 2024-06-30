@@ -18,7 +18,7 @@
 - 📌 Amacım, not almayı daha kolay ve keyifli hale getirmek. Uygulamam hakkında geri bildirimlerinizi sabırsızlıkla bekliyorum! 🙌
 
 
-<img src="/note_app-1.gif">
+<img src="note_app-1.gif">
 
 <img src="/note_app-2.gif">
 
